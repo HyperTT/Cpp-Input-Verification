@@ -43,8 +43,5 @@ int main ()
         return 0;
     }
     cout << "That is valid.\n";
-    //int first_hyphen = ssn.find_first_of('-');
-    //int last_hyphen = ssn.find_last_of('-');
-
     return 0;
 }
